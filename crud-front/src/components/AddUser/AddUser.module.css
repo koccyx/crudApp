@@ -1,0 +1,12 @@
+.main {
+  margin: 0 auto;
+  max-width: 600px;
+}
+.inputsContainer {
+  display: flex;
+  flex-direction: column;
+  gap:20px
+}
+.input {
+  padding: 0 10px !important;
+}
